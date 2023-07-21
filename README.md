@@ -52,4 +52,4 @@ To set-up repository from the command line:
 
 Run in development environment e.g.: Visual Studio or jupyter
 
-Perhaps relevant example [here](https://github.com/kwraight/msci-simulation/tree/main/notebooks) 
+Perhaps relevant example [here](https://github.com/kwraight/msci-simulation/blob/main/notebooks/some_instructions.ipynb) 
