@@ -1,0 +1,27 @@
+{
+    "component": "...",
+    "testType": "HV_LV_TEST",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "2023-08-09T15:18:34.873Z",
+    "passed": true,
+    "problems": false,
+    "properties": {
+      "OPERATOR": "YEOSFHMQEFIADUYPDMMCIDVRANWZYI",
+      "INSTRUMENT": "ZDUGPVTIHVYHMXZIUKEEGZXYAHBCLB",
+      "ANALYSIS_VERSION": "QLYFGTQROIEEQDTPWCDYFMGAZHZYVI"
+    },
+    "results": {
+      "VIN_DROP": 367.45,
+      "GND_DROP": 686.43,
+      "EFFECTIVE_RESISTANCE": 302,
+      "HV_LEAKAGE": 247.95,
+      "LEAKAGE_CURRENT": 910.21,
+      "NTC_VOLTAGE": 303.53,
+      "NTC_VALUE": 235.67,
+      "TEMPERATURE": 599.21,
+      "DAMAGE_COMMENT": "XTUAZNOCUBGATATLEOBLIFEQAZJCGX",
+      "R1_HV_RESISTOR": 119.89,
+      "RELATIVE_HUMIDITY": 516.88
+    }
+  }
