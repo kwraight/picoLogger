@@ -7,7 +7,8 @@ Use picoLogger raw data to derive QC values for upload to ITk Production Databas
 requirements:
  - pandas
  - altair
-
+ - numpy
+ 
 ---
 
 ## Overview
