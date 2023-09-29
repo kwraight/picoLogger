@@ -18,9 +18,31 @@ example file:
 notebooks:
  - python based jupyter notebooks for analysing picoLogger data
 
- ---
+---
 
-## Repository set-up
+## Running picoLogger converter 
+
+These instructions are for running the converter. To develop the code see [below](#repository-set-up-for-development).
+
+### Notebook
+
+1. clone the repository
+> git clone REPOSITORY_LINK
+    - obtain the (https) link from the **<> Code** button
+
+2. open notebooks/readData_pico.ipynb
+    - edit _User Settings_ section
+    - run
+
+3. Use output _csv_ file to upload via script or webApp
+    - webApp example: [streamlit](https://itk-pdb-webapps-pixels.web.cern.ch)
+        - _genericApp_ theme, _Multi Test_ page
+
+---
+
+## Repository set-up for development
+
+These instructions are to develop the code. To run the converter see [above](#running-picologger-converter).
 
 To set-up repository from the command line:
 
