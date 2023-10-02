@@ -2,3 +2,4 @@
 notebooks/.ipynb_checkpoints
 notebooks/__pycache__
 notebooks/connectionDetails.py
+notebooks/readData_influx.ipynb
